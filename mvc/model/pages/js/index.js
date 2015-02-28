@@ -1,0 +1,1 @@
+$('.content').append('I have been added by the specoific js file');

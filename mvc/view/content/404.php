@@ -1,0 +1,1 @@
+This is the 404 page.. it is used when a request is wrong or when special character were passed in the request
